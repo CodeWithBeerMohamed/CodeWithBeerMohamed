@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 About Me<br>👋 Hello! I'm Peer Mohamed, a passionate and hardworking Java Backend Developer (Fresher) from Tamil Nadu, India.<br>🎓 I'm a BCA Graduate with a solid understanding of Java, OOP, SQL, File Handling, and Collections.<br>🛠️ Currently working on a Smart Billing System using Java to improve my skills and build real-world solutions.<br>🌱 I'm always learning new technologies and improving my backend development skills one step at a time.<br>🚀 My goal is to build clean, efficient, and scalable backend systems that solve real problems.<br>💬 I love helping others, learning from the community, and growing together!<br>📫 Let's connect: LinkedIn
+👋 Hello! I'm Beer Mohamed, a passionate and hardworking Java Backend Developer (Fresher) from Tamil Nadu, India.<br>🎓 I'm a BCA Graduate with a solid understanding of Java, OOP, SQL, File Handling, and Collections.<br>🛠️ Currently working on a Civic Connect app using Java to improve my skills and build real-world solutions.<br>🌱 I'm always learning new technologies and improving my backend development skills one step at a time.<br>🚀 My goal is to build clean, efficient, and scalable backend systems that solve real problems.<br>💬 I love helping others, learning from the community, and growing together!<br>📫 Let's connect
 
 
 ## 🌐 Socials:
